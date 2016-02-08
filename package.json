@@ -1,0 +1,23 @@
+{
+  "name": "book-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	 "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patni92/book-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patni92/book-app/issues"
+  },
+  "homepage": "https://github.com/patni92/book-app#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
